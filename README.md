@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/pclzmb/Summertrap/blob/ffe728f71b0cdcbc8be547903dbdb52e3a209357/Images/Bloxstrap.png" width="150">
 
-Summetrap is a lunastrap fork aiming to enhance features.
+Summetrap is a lunastrap fork aiming to enhance features. For More Info Bout Lunastrap i left the website there
 
 Found any bugs? [Submit an issue](https://github.com/lunastraplabs/lunastrap/issues/new/choose) or create a bug report in our Discord Server (comming soon)
 
