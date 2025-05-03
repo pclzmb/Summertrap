@@ -1,6 +1,6 @@
 # SummerStrap
 
-<img align="right" src="https://github.com/lunastraplabs/lunastrap/blob/main/Images/Bloxstrap.png?raw=true" width="150">
+<img align="right" src="https://github.com/pclzmb/Summertrap/blob/ffe728f71b0cdcbc8be547903dbdb52e3a209357/Images/Bloxstrap.png" width="150">
 
 Summetrap is a lunastrap fork aiming to enhance features.
 
