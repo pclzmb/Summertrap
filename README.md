@@ -1,4 +1,4 @@
-# SummerStrap
+# SummerStrap (might discontinue)
 
 <img align="right" src="https://github.com/pclzmb/Summertrap/blob/ffe728f71b0cdcbc8be547903dbdb52e3a209357/Images/Bloxstrap.png" width="150">
 
