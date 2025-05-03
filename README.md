@@ -1,4 +1,4 @@
-# SummerStrap (might discontinue)
+# SummerStrap Discontinued
 
 <img align="right" src="https://github.com/pclzmb/Summertrap/blob/ffe728f71b0cdcbc8be547903dbdb52e3a209357/Images/Bloxstrap.png" width="150">
 
@@ -6,6 +6,7 @@ Summetrap is a lunastrap fork aiming to enhance features. For More Info Bout Lun
 
 Found any bugs? [Submit an issue](https://github.com/lunastraplabs/lunastrap/issues/new/choose) or create a bug report in our Discord Server (comming soon)
 
+Discontinued reasons are on the discord https://discord.gg/fx7JbTaEgt
 .
 
 [![License][badge-repo-license]][repo-license]
@@ -51,4 +52,4 @@ Found any bugs? [Submit an issue](https://github.com/lunastraplabs/lunastrap/iss
 [repo-releases]: https://github.com/lunastraplabs/lunastrap/releases
 [repo-latest]:   https://github.com/lunastraplabs/lunastrap/releases/latest
 [repo-stars]: https://github.com/lunastraplabs/lunastrap/stargazers
-[discord-invite]: soon
+[discord-invite]: https://discord.gg/fx7JbTaEgt
